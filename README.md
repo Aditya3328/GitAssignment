@@ -1,2 +1,2 @@
 # GitAssignment
-this repo for assignment 
+this repo use for assignment 
